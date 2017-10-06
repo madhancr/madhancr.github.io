@@ -1,1 +1,0 @@
-IDRViewer.config = {"pagecount":14,"title":"CapstonePresentation","author":"","fileName":"CapstonePresentation.pdf","bounds":[[1564,1173],[1564,1173],[1564,1173],[1564,1173],[1564,1173],[1564,1173],[1564,1173],[1564,1173],[1564,1173],[1564,1173],[1564,1173],[1564,1173],[1564,1173],[1564,1173]],"bookmarks":[],"thumbnailType":"jpg","pageType":"html","pageLabels":[]};
